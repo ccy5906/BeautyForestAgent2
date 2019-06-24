@@ -47,6 +47,11 @@ namespace BeautyForestAgent
         {
             VisibleChange(true);
         }
+
+        private void 끝내기ToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 
 }
